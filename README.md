@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Rudra Pratap  
+# 👋 YO, I'm Rudra Pratap  
 🚀 AI & Full-Stack Engineer | 🧠 Future Residency @ OpenAI (Manifesting)  
 
 ### 💡 About Me
