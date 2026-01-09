@@ -8,6 +8,8 @@
 - 💼 Goal: Global companies with Aramco-level impact  
 
 ---
+- **Red Bull | Off-Premise Sales & Key Account Strategy (Forage)**  
+  Key account analysis • Sales growth recommendations • Client-ready presentation
 
 ### ⚡ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
