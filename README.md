@@ -15,6 +15,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+https://www.chess.com/article/view/chess-tactics#attackingf7f2
 ![Django](https://img.shields.io/badge/-Django-000?&logo=django)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=mongodb)
 ![C](https://img.shields.io/badge/-C-000?&logo=c)
